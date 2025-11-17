@@ -1,0 +1,6 @@
+[submodule "Hackathon-backend"]
+	path = Hackathon-backend
+	url = https://github.com/pppskk/Hackathon-backend.git
+[submodule "test-hackathon"]
+	path = test-hackathon
+	url = https://github.com/F41P/test-hackathon.git
